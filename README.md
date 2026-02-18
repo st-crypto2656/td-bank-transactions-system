@@ -1,4 +1,4 @@
-# td-bank-transactions-system
+# simple-bank-transactions-system
 Console-based banking system built in C++
 This program collects user information and simulates basic banking operations, including
 depositing, withdrawing, displaying updated account details, and exiting the system.
